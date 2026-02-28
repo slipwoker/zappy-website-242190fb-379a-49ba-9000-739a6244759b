@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Experience sophisticated equestrian gaming with Pluto Steed Alliance. Our Star Stable Online club offers coordinated events, premium community atmosphere, and organized activities for discerning riders.
+
+### About
+https://example.com/about
+Learn what makes Pluto Steed Alliance the premier Star Stable Online club. We combine elegant organization with passionate equestrian gaming for an upscale community experience.
+
+### Schedule
+https://example.com/schedule
+Coordinate your Star Stable adventures seamlessly. Our online schedule maker helps members plan club events, group rides, and activities with elegant efficiency.
+
+### Contact
+https://example.com/contact
+Ready to join an elite Star Stable Online club? Contact Pluto Steed Alliance today to become part of our sophisticated equestrian gaming community and start riding with us.
+
+### Products
+https://example.com/products
+Our Products - Pluto Steed Alliance
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - Pluto Steed Alliance
+
+### Category
+https://example.com/category/:slug
+Products - Pluto Steed Alliance
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
